@@ -1,6 +1,6 @@
 name: DeathControl
 main: bone008.bukkit.deathcontrol.DeathControl
-version: 3.0.1#CUSTOM
+version: 2.1.5#CUSTOM
 api-version: 1.13
 author: LocalSavageBob, bone008
 description: Allows actions to be executed when players die under certain conditions.
